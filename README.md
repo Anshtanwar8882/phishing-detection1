@@ -47,3 +47,6 @@ The stage names are heuristic interpretations of unsupervised hidden states. The
 
 ## Privacy
 The bundled dataset may contain personal email addresses and message content. Keep the repository private unless the dataset's license and privacy status clearly permit public redistribution. Use only data you are authorized to process.
+
+## Open at
+https://phishing-detection1-q4bhexwpleqmobmrknz7bc.streamlit.app/
